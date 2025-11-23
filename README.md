@@ -1,6 +1,5 @@
 **RoboCleaner V1.0 — IoT House Cleaning Robot**
 
-- **Description:**: Simple Arduino-based house-cleaning robot supporting autonomous obstacle avoidance and remote control via serial/Bluetooth. Uses three ultrasonic sensors, an IR sensor, ESC for brush/motor speed, and H-bridge motor control pins.
 
 **Features**
 - **Autonomous Mode:**: Obstacle detection using three ultrasonic sensors (left/front/right) and behavior logic to avoid collisions.
@@ -58,5 +57,6 @@ Optional: using a Bluetooth module (e.g., HC-05)
 
 **Further details**
 - The `docs/Robo_Cleaner Final Report.docx` contains the project report, diagrams, and deeper explanations — open it for wiring diagrams and testing results.
+
 
 
